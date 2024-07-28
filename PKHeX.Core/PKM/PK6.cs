@@ -15,7 +15,8 @@ public sealed class PK6 : G6PKM, IRibbonSetEvent3, IRibbonSetEvent4, IRibbonSetC
     ];
 
     public override EntityContext Context => EntityContext.Gen6;
-    public override PersonalInfo6AO PersonalInfo => PersonalTable.AO.GetFormEntry(Species, Form);
+    //public override PersonalInfo6AO PersonalInfo => PersonalTable.AO.GetFormEntry(Species, Form);
+    public override PersonalInfo6XY PersonalInfo => PersonalTable.XY.GetFormEntry(Species, Form);
 
     public PK6() : base(PokeCrypto.SIZE_6PARTY) { }
     public PK6(byte[] data) : base(DecryptParty(data)) { }

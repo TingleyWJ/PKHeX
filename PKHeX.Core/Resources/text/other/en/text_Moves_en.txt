@@ -1,35 +1,35 @@
 ———
-Pound
+Wave Crash
 Karate Chop
-Double Slap
+Steel Beam
 Comet Punch
 Mega Punch
 Pay Day
 Fire Punch
 Ice Punch
 Thunder Punch
-Scratch
-Vise Grip
+Breaking Swipe
+Tussle
 Guillotine
 Razor Wind
 Swords Dance
 Cut
 Gust
-Wing Attack
+Dual Wingbeat
 Whirlwind
 Fly
-Bind
+Esper Wing
 Slam
-Vine Whip
-Stomp
+Trop Kick
+Ground Pound
 Double Kick
 Mega Kick
 Jump Kick
-Rolling Kick
+Fate's Flourish
 Sand Attack
 Headbutt
-Horn Attack
-Fury Attack
+Headlong Rush
+Scorching Swarm
 Horn Drill
 Tackle
 Body Slam
@@ -53,7 +53,7 @@ Acid
 Ember
 Flamethrower
 Mist
-Water Gun
+Chilling Water
 Hydro Pump
 Surf
 Ice Beam
@@ -86,7 +86,7 @@ Thunder Shock
 Thunderbolt
 Thunder Wave
 Thunder
-Rock Throw
+Accelerock
 Earthquake
 Fissure
 Dig
@@ -120,7 +120,7 @@ Metronome
 Mirror Move
 Self-Destruct
 Egg Bomb
-Lick
+Aqua Step
 Smog
 Sludge
 Bone Club
@@ -179,7 +179,7 @@ Aeroblast
 Cotton Spore
 Reversal
 Spite
-Powder Snow
+Ice Hammer
 Protect
 Mach Punch
 Scary Face
@@ -300,11 +300,11 @@ Teeter Dance
 Blaze Kick
 Mud Sport
 Ice Ball
-Needle Arm
+Trailblaze
 Slack Off
 Hyper Voice
 Poison Fang
-Crush Claw
+Smart Strike
 Blast Burn
 Hydro Cannon
 Meteor Mash
@@ -582,7 +582,7 @@ Grassy Terrain
 Misty Terrain
 Electrify
 Play Rough
-Fairy Wind
+Spirit Break
 Moonblast
 Boomburst
 Fairy Lock

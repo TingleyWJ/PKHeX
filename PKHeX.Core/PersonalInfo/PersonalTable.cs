@@ -53,7 +53,8 @@ public static class PersonalTable
     /// <summary>
     /// Personal Table used in <see cref="GameVersion.XY"/>.
     /// </summary>
-    public static readonly PersonalTable6XY XY = new(GetTable("xy"));
+    //public static readonly PersonalTable6XY XY = new(GetTable("xy"));
+    public static readonly PersonalTable6XY XY = new(GetTable("ax"));
 
     /// <summary>
     /// Personal Table used in <see cref="GameVersion.B2W2"/>.
